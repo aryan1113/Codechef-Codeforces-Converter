@@ -13,10 +13,12 @@ Comparing users who are active only on one platform was in-accurate simple sorti
 <li> Scraped data of around 12000 from StopStalk.
 <li> Solved data-discrepancies using Excel and Pandas
 <li> Spotting a linear trend between CodeChef and Codeforces rating (using scatter plot)
+
 ![Scatter plot between ratings.](https://user-images.githubusercontent.com/87320561/209918341-bf33d5ec-9a33-4595-b224-2731b3bd425d.png)
 
 )
 <li> Parameters for best fit line were calculated.
+
 ![Regression plot for CodeChef and CodeForces Rating.](https://user-images.githubusercontent.com/87320561/209918288-38a02e41-376e-4f11-8913-2caa7d1cad9d.png)
 
 )
